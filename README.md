@@ -39,9 +39,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishakhaojha57&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
 
 ### 🚀 Featured Projects
@@ -73,9 +70,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/vishakhaojha57/vishakhaojha57/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 ### 🌐 Connect with Me
 
