@@ -4,16 +4,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=CS+Student+%7C+Developer+%F0%9F%92%BB;ML+%7C+Data+Science+%7C+AI;Exploring+AI+Automation+%E2%9A%99%EF%B8%8F;Always+building%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-### 👩‍💻 About Me
+### 🧑‍💻 About Me
 
-- 🎓 CS Student specializing in **Data Engineering & Artificial Intelligence**
-- 🔥 Passionate about building **scalable data pipelines** and **AI-powered applications**
-- 🌱 Currently deep-diving into **PySpark, LangChain & GenAI**
-- 💡 I turn raw data into meaningful insights and ideas into real applications
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1200&color=10B981&center=true&vCenter=true&width=600&lines=CS+Student+%7C+Software+Dev+%7C+ML+%7C+Data+Science;Exploring+AI+Automation+%E2%9A%99%EF%B8%8F;LangChain+%7C+LangGraph+%7C+Python;Learning+by+building%2C+one+project+at+a+time" alt="About typing SVG" />
+
+- 🎓 CS Student with a passion for **Software Development, Machine Learning & Data Science**
+- ⚙️ Exploring **AI Automation** — building tools that make workflows smarter
+- 🌱 Currently deep-diving into **ML, Data Science, LangChain & LangGraph**
+- 💡 I like turning ideas into working projects and learning by building
 - 📍 Based in **India**
-- 💬 Ask me about **PySpark, SQL, Python, Data Engineering, LangChain, GenAI**
-
----
+- 💬 Ask me about **Python, ML, Data Science, GenAI, LangChain, LangGraph**
 
 ### 🛠️ Tech Stack
 
