@@ -15,6 +15,8 @@
 - 📍 Based in **India**
 - 💬 Ask me about **Python, ML, Data Science, GenAI, LangChain, LangGraph**
 
+
+
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -23,14 +25,12 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-
 **Big Data**
-![Data Structures & Algorithms](https://img.shields.io/badge/DSA-2D3748?style=for-the-badge&logo=leetcode&logoColor=white)
+
+![DSA](https://img.shields.io/badge/DSA-2D3748?style=for-the-badge&logo=leetcode&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazuredataexplorer&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-2E8B57?style=for-the-badge&logoColor=white)
-
 
 **AI & ML**
 
@@ -42,9 +42,6 @@
 **Cloud**
 
 ![Azure](https://img.shields.io/badge/Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
----
-
 
 ### 🚀 Featured Projects
 
