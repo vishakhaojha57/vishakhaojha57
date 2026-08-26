@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishakha Ojha</h1>
-<h3 align="center">Data Engineering & AI Enthusiast | Building intelligent data pipelines 🚀</h3>
-
+<h3 align="center">CS Student | Dev • ML • Data Science • AI Automation | Learning by building 🚀</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Data+Engineer+in+Making+%F0%9F%94%A5;PySpark+%7C+SQL+%7C+Python+%7C+GenAI;LangChain+%7C+Data+Pipelines+%7C+AI;Always+building%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=CS+Student+%7C+Developer+%F0%9F%92%BB;ML+%7C+Data+Science+%7C+AI;Exploring+AI+Automation+%E2%9A%99%EF%B8%8F;Always+building%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
----
 
 ### 👩‍💻 About Me
 
