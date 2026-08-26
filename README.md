@@ -57,22 +57,43 @@
 
 
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishakhaojha57&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakhaojha57&layout=compact&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishakhaojha57&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishakhaojha57&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakhaojha57&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishakhaojha57&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishakhaojha57&theme=tokyonight" />
 </p>
 
 ---
+
+### 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishakhaojha57&theme=tokyo-night&hide_border=true" />
 </p>
 
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishakhaojha57/vishakhaojha57/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishakhaojha57/vishakhaojha57/output/github-snake-light.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/vishakhaojha57/vishakhaojha57/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+---
 
 
 ### 🌐 Connect with Me
