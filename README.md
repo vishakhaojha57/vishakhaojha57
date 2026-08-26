@@ -43,30 +43,32 @@
 
 ![Azure](https://img.shields.io/badge/Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+
+
+
 ### 🚀 Featured Projects
 
-### 🚀 Featured Projects
+<details>
+<summary>🛰️ <b>Retail Sales ETL Pipeline</b> — click to expand</summary>
+<br/>
 
-**🛰️ Retail Sales ETL Pipeline**
-End-to-end ETL pipeline for retail sales data using Apache Spark.
+End-to-end ETL pipeline for retail sales data — Extract, Transform, Load using Apache Spark.
 
-<p align="left">
-  <a href="https://github.com/vishakhaojha57/Retail-Sales-ETL-PySpark">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishakhaojha57&repo=Retail-Sales-ETL-PySpark&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+`PySpark` `SQL` `Python`
 
-**📱 AI Phone Detector Alert System**
-Detects phone usage in restricted zones, triggers real-time alerts using AI.
+🔗 [View Repo](https://github.com/vishakhaojha57/Retail-Sales-ETL-PySpark)
+</details>
 
-<p align="left">
-  <a href="https://github.com/vishakhaojha57/AI-Phone-Detector-Alert-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishakhaojha57&repo=AI-Phone-Detector-Alert-System&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<details>
+<summary>📱 <b>AI Phone Detector Alert System</b> — click to expand</summary>
+<br/>
 
+Detects phone usage in restricted zones and triggers real-time alerts using AI.
 
+`Python` `AI` `Computer Vision`
 
+🔗 [View Repo](https://github.com/vishakhaojha57/AI-Phone-Detector-Alert-System)
+</details>
 
 
 ### 📊 GitHub Stats
