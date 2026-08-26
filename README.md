@@ -48,27 +48,13 @@
 
 ### 🚀 Featured Projects
 
-<details>
-<summary>🛰️ <b>Retail Sales ETL Pipeline</b> — click to expand</summary>
-<br/>
+| Project | Description | Tech |
+|--------|-------------|------|
+| [kyaPehnu](https://github.com/vishakhaojha57/kyaPehnu) | Digital wardrobe app — converts your physical wardrobe into a digital store with outfit history tracking | TypeScript |
+| [AI Phone Detector Alert System](https://github.com/vishakhaojha57/AI-Phone-Detector-Alert-System) | Detects phone usage in restricted zones and triggers real-time alerts using AI | Python • AI • Computer Vision |
+| [CCRM Final Project](https://github.com/vishakhaojha57/CCRM-Final-Project) | Campus Course & Records Manager — OOP, NIO.2 and Streams | Java |
+| [Sentiment Analysis Review App](https://github.com/vishakhaojha57/Sentiment-Analysis-Review-App) | Analyzes customer/product reviews and classifies sentiment | Python • NLP |
 
-End-to-end ETL pipeline for retail sales data — Extract, Transform, Load using Apache Spark.
-
-`PySpark` `SQL` `Python`
-
-🔗 [View Repo](https://github.com/vishakhaojha57/Retail-Sales-ETL-PySpark)
-</details>
-
-<details>
-<summary>📱 <b>AI Phone Detector Alert System</b> — click to expand</summary>
-<br/>
-
-Detects phone usage in restricted zones and triggers real-time alerts using AI.
-
-`Python` `AI` `Computer Vision`
-
-🔗 [View Repo](https://github.com/vishakhaojha57/AI-Phone-Detector-Alert-System)
-</details>
 
 
 ### 📊 GitHub Stats
