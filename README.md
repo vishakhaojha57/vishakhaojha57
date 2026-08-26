@@ -97,6 +97,25 @@
 
 ---
 
+.........................
+### 🌐 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vishakhaojha57/vishakhaojha57/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishakhaojha57/vishakhaojha57/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishakhaojha57/vishakhaojha57/output/github-snake-light.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/vishakhaojha57/vishakhaojha57/output/github-snake-dark.svg" width="90%" />
+  </picture>
+</p>
+
 
 
 
