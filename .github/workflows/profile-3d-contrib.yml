@@ -38,8 +38,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: vishakhaojha57
+          USERNAME: vishakhaojha57
       - name: Commit and push 3D graph
         run: |
           git config user.name github-actions
