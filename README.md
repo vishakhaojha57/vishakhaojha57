@@ -45,15 +45,29 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [AI Phone Detector Alert System](https://github.com/vishakhaojha57/AI-Phone-Detector-Alert-System) | Detects phone usage in restricted zones and triggers real-time alerts using AI | Python • AI • Computer Vision |
-| [Retail Sales ETL Pipeline](https://github.com/vishakhaojha57/Retail-Sales-ETL-PySpark) | End-to-end ETL pipeline for retail sales data — Extract, Transform, Load using Apache Spark | PySpark • SQL • Python |
-| [Python File Automation](https://github.com/vishakhaojha57/python-file-automation) | Automates file management tasks — organize, rename & move files smartly | Python |
-| [Trademark Risk Assessment](https://github.com/vishakhaojha57/trademark-risk-assessment) | AI-powered tool to assess trademark conflicts and legal risk scoring | Python • GenAI • LangChain |
-| [CCRM Final Project](https://github.com/vishakhaojha57/CCRM-Final-Project) | Campus Course & Records Manager — OOP, NIO.2 and Streams | Java |
+### 🚀 Featured Projects
 
----
+**🛰️ Retail Sales ETL Pipeline**
+End-to-end ETL pipeline for retail sales data using Apache Spark.
+
+<p align="left">
+  <a href="https://github.com/vishakhaojha57/Retail-Sales-ETL-PySpark">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishakhaojha57&repo=Retail-Sales-ETL-PySpark&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+**📱 AI Phone Detector Alert System**
+Detects phone usage in restricted zones, triggers real-time alerts using AI.
+
+<p align="left">
+  <a href="https://github.com/vishakhaojha57/AI-Phone-Detector-Alert-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishakhaojha57&repo=AI-Phone-Detector-Alert-System&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+
+
+
 
 ### 📊 GitHub Stats
 
