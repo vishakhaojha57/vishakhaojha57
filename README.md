@@ -77,27 +77,7 @@
 
 ---
 
-### 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishakhaojha57&theme=tokyo-night&hide_border=true" width="90%" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishakhaojha57/vishakhaojha57/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishakhaojha57/vishakhaojha57/output/github-snake-light.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/vishakhaojha57/vishakhaojha57/output/github-snake-dark.svg" width="90%" />
-  </picture>
-</p>
-
----
-
-.........................
 ### 🌐 3D Contribution Graph
 
 <p align="center">
