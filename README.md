@@ -15,7 +15,7 @@
 - 📍 Based in **India**
 - 💬 Ask me about **Python, ML, Data Science, GenAI, LangChain, LangGraph**
 
-
+---
 
 ### 🛠️ Tech Stack
 
@@ -43,7 +43,7 @@
 
 ![Azure](https://img.shields.io/badge/Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-
+---
 
 
 ### 🚀 Featured Projects
