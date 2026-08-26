@@ -52,6 +52,7 @@
 |--------|-------------|------|
 | [kyaPehnu](https://github.com/vishakhaojha57/kyaPehnu) | Digital wardrobe app — converts your physical wardrobe into a digital store with outfit history tracking | TypeScript |
 | [AI Phone Detector Alert System](https://github.com/vishakhaojha57/AI-Phone-Detector-Alert-System) | Detects phone usage in restricted zones and triggers real-time alerts using AI | Python • AI • Computer Vision |
+| [A streamlit conversational chatbot of Langchain using Ollama2](https://github.com/vishakhaojha57/ollamaLangchainChatbot) | chatbot using ollama2 , langchain and python |
 | [CCRM Final Project](https://github.com/vishakhaojha57/CCRM-Final-Project) | Campus Course & Records Manager — OOP, NIO.2 and Streams | Java |
 | [Sentiment Analysis Review App](https://github.com/vishakhaojha57/Sentiment-Analysis-Review-App) | Analyzes customer/product reviews and classifies sentiment | Python • NLP |
 
