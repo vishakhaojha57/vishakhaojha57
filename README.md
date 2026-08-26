@@ -41,33 +41,6 @@
 ---
 
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [AI Phone Detector Alert System](https://github.com/vishakhaojha57/AI-Phone-Detector-Alert-System) | Detects phone usage in restricted zones and triggers real-time alerts using AI | Python • AI • Computer Vision |
-| [Retail Sales ETL Pipeline](https://github.com/vishakhaojha57/Retail-Sales-ETL-PySpark) | End-to-end ETL pipeline for retail sales data — Extract, Transform, Load using Apache Spark | PySpark • SQL • Python |
-| [Python File Automation](https://github.com/vishakhaojha57/python-file-automation) | Automates file management tasks — organize, rename & move files smartly | Python |
-| [Trademark Risk Assessment](https://github.com/vishakhaojha57/trademark-risk-assessment) | AI-powered tool to assess trademark conflicts and legal risk scoring | Python • GenAI • LangChain |
-| [CCRM Final Project](https://github.com/vishakhaojha57/CCRM-Final-Project) | Campus Course & Records Manager — OOP, NIO.2 and Streams | Java |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishakhaojha57&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakhaojha57&layout=compact&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishakhaojha57&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishakhaojha57&theme=tokyo-night&hide_border=true" />
-</p>
 
 
 
