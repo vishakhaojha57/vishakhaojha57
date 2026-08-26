@@ -97,21 +97,6 @@
 </p>
 
 
-### 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishakhaojha57&theme=tokyo-night&hide_border=true&area=true&custom_title=Vishakha's%20Contribution%20Graph" width="90%" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishakhaojha57&theme=tokyo-night&hide_border=true&year=2026" width="90%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishakhaojha57&theme=tokyo-night&hide_border=true&year=2025" width="90%" />
-</p>
-
-
 
 ### 🌐 Connect with Me
 
