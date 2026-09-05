@@ -55,6 +55,7 @@
 | [A streamlit conversational chatbot of Langchain using Ollama2](https://github.com/vishakhaojha57/ollamaLangchainChatbot) | chatbot | ollama2 , langchain and python |
 | [CCRM Final Project](https://github.com/vishakhaojha57/CCRM-Final-Project) | Campus Course & Records Manager — OOP, NIO.2 and Streams | Java |
 | [Sentiment Analysis Review App](https://github.com/vishakhaojha57/Sentiment-Analysis-Review-App) | Analyzes customer/product reviews and classifies sentiment | Python • NLP |
+| [AskMyBook AI](https://github.com/vishakhaojha57/AskMyBook) | AI-powered PDF RAG chatbot that lets users upload a book or document and ask context-based questions using Gemini and ChromaDB. | Python • Streamlit • LangChain • Gemini • ChromaDB |
 
 
 
