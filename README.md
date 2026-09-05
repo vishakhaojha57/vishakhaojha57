@@ -53,8 +53,7 @@
 | [kyaPehnu](https://github.com/vishakhaojha57/kyaPehnu) | Digital wardrobe app — converts your physical wardrobe into a digital store with outfit history tracking | TypeScript |
 | [AI Phone Detector Alert System](https://github.com/vishakhaojha57/AI-Phone-Detector-Alert-System) | Detects phone usage in restricted zones and triggers real-time alerts using AI | Python • AI • Computer Vision |
 | [TubBot AI Chatbot](https://github.com/vishakhaojha57/TubBot) | AI-powered YouTube video summarizer and Q&A chatbot | React • Vite • Tailwind CSS • Python • FastAPI • Gemini API • FAISS |
-| [A streamlit conversational chatbot of Langchain using Ollama2](https://github.com/vishakhaojha57/ollamaLangchainChatbot) | chatbot | ollama2 , langchain and python |
-| [AskMyBook AI](https://github.com/vishakhaojha57/AskMyBook) | AI-powered PDF RAG chatbot that lets users upload a book or document and ask questions| Python • Streamlit • LangChain • Gemini • ChromaDB |
+| [ResearchMind](https://github.com/vishakhaojha57/multiAgentResearchSystem) | Multi-agent AI system for web research, report generation, and critical review. | Python • Streamlit • LangChain • Groq • Tavily |
 | [CCRM Final Project](https://github.com/vishakhaojha57/CCRM-Final-Project) | Campus Course & Records Manager — OOP, NIO.2 and Streams | Java |
 
 
